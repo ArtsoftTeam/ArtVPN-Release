@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![Uploading artvpn_logo_1778595001551.png…]()" alt="ArtVPN Logo" width="120" />
+  <img src="" width="120" />
   
   <h1>🛡️ ArtVPN Pro</h1>
   <p><b>Умный, быстрый и современный VPN-клиент с продвинутым обходом блокировок (DPI).</b></p>
