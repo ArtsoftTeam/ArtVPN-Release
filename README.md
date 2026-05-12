@@ -39,7 +39,7 @@
     <tr>
       <td align="center"><img src="https://github.com/user-attachments/assets/ed487cae-02a5-4282-8409-bf5d37abed84" width="220"/></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/2096583f-a9f2-41ef-a2c4-118038db711a" width="220"/></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/0601ad47-c78d-43c1-bf3f-d82a60151731" width="220"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/d6d6df70-9617-46fe-8123-25949b7abd96" width="220"/></td>
     </tr>
   </table>
   
