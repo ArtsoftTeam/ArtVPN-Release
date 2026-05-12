@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e46cdd01-ffef-4c51-bdb5-daeaafb0c2e7" alt="ArtVPN Logo" width="120" />
-
+  
   <h1>🛡️ ArtVPN Pro</h1>
   <p><b>Умный, быстрый и современный VPN-клиент с продвинутым обходом блокировок (DPI).</b></p>
 
@@ -29,25 +29,28 @@
 
 ## 📸 Скриншоты интерфейса
 
-<!-- 
-ИНСТРУКЦИЯ ПО ДОБАВЛЕНИЮ КАРТИНОК:
-1. Сделайте скриншоты приложения на телефоне
-2. Просто перетащите их (drag & drop) прямо в этот файл при редактировании на GitHub
-3. Замените ссылки ниже на те, которые сгенерирует GitHub 
--->
-
 <div align="center">
   <table>
     <tr>
       <td align="center"><b>Главный экран</b></td>
-      <td align="center"><b>Настройки</b></td>
-      <td align="center"><b>Смарт-режим (DPI)</b></td>
+      <td align="center"><b>Статистика</b></td>
+      <td align="center"><b>Сервера</b></td>
     </tr>
     <tr>
-      <!-- ЗАМЕНИТЕ ССЫЛКИ В АТРИБУТЕ src НИЖЕ НА СВОИ КАРТИНКИ -->
-      <td><img src="https://via.placeholder.com/250x500?text=Скриншот+1" width="220"/></td>
-      <td><img src="https://via.placeholder.com/250x500?text=Скриншот+2" width="220"/></td>
-      <td><img src="https://via.placeholder.com/250x500?text=Скриншот+3" width="220"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/ed487cae-02a5-4282-8409-bf5d37abed84" width="220"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/2096583f-a9f2-41ef-a2c4-118038db711a" width="220"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/0601ad47-c78d-43c1-bf3f-d82a60151731" width="220"/></td>
+    </tr>
+  </table>
+  
+  <table>
+    <tr>
+      <td align="center"><b>Настройки</b></td>
+      <td align="center"><b>Туннелирование</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/user-attachments/assets/a6221dc4-7dc0-4802-ba0a-a34c01c71df7"  width="220"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/11b84b2e-9283-4144-a23f-105764516014" width="220"/></td>
     </tr>
   </table>
 </div>
