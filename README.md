@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="" width="120" />
-  
+  <img src="https://github.com/user-attachments/assets/e46cdd01-ffef-4c51-bdb5-daeaafb0c2e7" alt="ArtVPN Logo" width="120" />
+
   <h1>🛡️ ArtVPN Pro</h1>
   <p><b>Умный, быстрый и современный VPN-клиент с продвинутым обходом блокировок (DPI).</b></p>
 
@@ -78,4 +78,3 @@
 <div align="center">
   <b>Разработано с ❤️ для свободного интернета.</b>
 </div>
-<img width="1024" height="1024" alt="artvpn_logo_1778595001551" src="https://github.com/user-attachments/assets/90bc746f-8086-494c-85b8-46c8b863c39d" />
