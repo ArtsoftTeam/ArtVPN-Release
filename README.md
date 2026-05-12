@@ -1,10 +1,10 @@
-<div align="center">
+div align="center">
   <img src="https://via.placeholder.com/150?text=ArtVPN+Logo" alt="ArtVPN Logo" width="120" />
   
   <h1>🛡️ ArtVPN Pro</h1>
   <p><b>Умный, быстрый и современный VPN-клиент с продвинутым обходом блокировок (DPI).</b></p>
 
-  [![Latest Release](https://img.shields.io/github/v/release/YOUR_NAME/ArtVPN-Release?color=00F2FF&label=Latest%20Release&style=for-the-badge)](https://github.com/YOUR_NAME/ArtVPN-Release/releases)
+  [![Latest Release](https://img.shields.io/github/v/release/ArtsoftTeam/ArtVPN-Release?color=00F2FF&label=Latest%20Release&style=for-the-badge)](https://github.com/ArtsoftTeam/ArtVPN-Release/releases)
   [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](#)
   [![Xray-core](https://img.shields.io/badge/Powered%20by-Xray--core-blue?style=for-the-badge)](#)
 </div>
@@ -56,7 +56,7 @@
 
 ## 📥 Как установить?
 
-1. Перейдите в раздел [**Releases**](https://github.com/YOUR_NAME/ArtVPN-Release/releases) справа.
+1. Перейдите в раздел [**Releases**](https://github.com/ArtsoftTeam/ArtVPN-Release/releases) справа.
 2. Скачайте самый свежий файл `app-release.apk`.
 3. Установите его на ваше Android устройство (возможно, потребуется разрешить установку из неизвестных источников).
 4. **Готово!** Приложение будет автоматически проверять наличие новых версий (OTA-обновления) и предлагать обновиться прямо внутри интерфейса.
